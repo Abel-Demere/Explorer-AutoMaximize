@@ -4,7 +4,7 @@ An AutoHotkey script that ensures Windows File Explorer maximizes when opening a
 
 ## Compatibility
 - Tested on **Windows 11 Dev Build**: **Version 23H2, OS Build 22635.4515**  
-- **Might not work on previous Windows versions or the main 24H4 release** since the *"Open desktop folders and external folder links in new tab"* feature isn't added yet.  
+- **Might not work on previous Windows versions or the main 24H2 release** since the *"Open desktop folders and external folder links in new tab"* feature isn't added yet.  
 
 ## Features
 - Automatically maximizes File Explorer when opening folders while minimized  
