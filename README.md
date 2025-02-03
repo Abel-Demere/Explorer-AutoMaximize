@@ -9,7 +9,7 @@ An AutoHotkey script that ensures Windows File Explorer maximizes when opening a
 
 ## Installation
 1. **Run the EXE (No installation required)**
-   - Download `ExplorerMaximize.exe` from [Releases](https://github.com/YOUR-USERNAME/Explorer-AutoMaximize/releases)
+   - Download `ExplorerMaximize.exe` from [Releases]([https://github.com/YOUR-USERNAME/Explorer-AutoMaximize/releases](https://github.com/Abel-Demere/Explorer-AutoMaximize/tree/main/releases))
    - Double-click to run in the background
 
 2. **Run the AHK script (Requires AutoHotkey)**
