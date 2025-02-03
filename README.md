@@ -21,7 +21,7 @@ An AutoHotkey script that ensures Windows File Explorer maximizes when opening a
 This script detects when a new folder is opened and checks if File Explorer is minimized. If it is, the script restores the window.
 
 ## Download
-You can download the latest compiled EXE from the [Releases page]([https://github.com/YOUR-USERNAME/Explorer-AutoMaximize/releases](https://github.com/YOUR-USERNAME/Explorer-AutoMaximize/releases](https://github.com/Abel-Demere/Explorer-AutoMaximize/tree/main/releases)).
+You can download the latest compiled EXE from the [Releases page](https://github.com/YOUR-USERNAME/Explorer-AutoMaximize/releases](https://github.com/Abel-Demere/Explorer-AutoMaximize/tree/main/releases)).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
