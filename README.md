@@ -14,7 +14,7 @@ An AutoHotkey script that ensures Windows File Explorer maximizes when opening a
 
 ### **2. Run the AHK script (Requires AutoHotkey)**
 - Install [AutoHotkey](https://www.autohotkey.com/)  
-- Download **`Restore Explorer Window.ahk`**  
+- Download **`Restore Explorer Window.ahk`** from [Source](https://github.com/Abel-Demere/Explorer-AutoMaximize/tree/main/src)  
 - Double-click to run  
 
 ## How It Works
